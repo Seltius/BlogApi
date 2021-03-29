@@ -1,4 +1,4 @@
-package com.seltius.blog.util;
+package com.seltius.blog.config;
 
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.springframework.beans.factory.annotation.Value;
